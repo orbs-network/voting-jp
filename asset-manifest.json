@@ -1,12 +1,12 @@
 {
-  "main.js": "/voting-jp/static/js/main.a2233a8e.chunk.js",
-  "main.js.map": "/voting-jp/static/js/main.a2233a8e.chunk.js.map",
+  "main.js": "/voting-jp/static/js/main.ba217e97.chunk.js",
+  "main.js.map": "/voting-jp/static/js/main.ba217e97.chunk.js.map",
   "runtime~main.js": "/voting-jp/static/js/runtime~main.d8c1c882.js",
   "runtime~main.js.map": "/voting-jp/static/js/runtime~main.d8c1c882.js.map",
   "static/js/2.7d54a035.chunk.js": "/voting-jp/static/js/2.7d54a035.chunk.js",
   "static/js/2.7d54a035.chunk.js.map": "/voting-jp/static/js/2.7d54a035.chunk.js.map",
   "index.html": "/voting-jp/index.html",
-  "precache-manifest.f19a45923cbd915af3c4dcb997ff9159.js": "/voting-jp/precache-manifest.f19a45923cbd915af3c4dcb997ff9159.js",
+  "precache-manifest.519062545551e9b33cf4e2eb3dd4fe82.js": "/voting-jp/precache-manifest.519062545551e9b33cf4e2eb3dd4fe82.js",
   "service-worker.js": "/voting-jp/service-worker.js",
   "static/media/logo-white.svg": "/voting-jp/static/media/logo-white.e59b3ac9.svg"
 }
